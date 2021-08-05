@@ -1,0 +1,26 @@
+{
+  "id": "6a2ed230-2c3c-4830-bd06-9d343a92a1e1",
+  "name": "LCC",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://LCC.com/help/",
+  "showMyCode": true,
+  "runtime": "3.2"
+}

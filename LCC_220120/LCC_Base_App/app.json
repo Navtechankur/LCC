@@ -1,0 +1,26 @@
+{
+  "id": "b99e49ee-332f-4e19-879a-e865fc1f9930",
+  "name": "LCC_Base_App3",
+  "publisher": "Default publisher3",
+  "version": "1.0.0.3",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange":
+    {
+      "from": 50100,
+      "to": 50149
+    },
+  
+  "showMyCode": true,
+  "runtime": "2.4"
+
+}
